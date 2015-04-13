@@ -3,6 +3,8 @@ layout: post
 title: You're up and running!
 ---
 
+{% gist parkr/931c1c8d465a04042403 %}
+
 {% highlight python %}
 toto = 5
 print toto
